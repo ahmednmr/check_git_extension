@@ -1,0 +1,4 @@
+[submodule "check_git_extension/syb_module_check"]
+	path = check_git_extension/syb_module_check
+	url = https://github.com/abdelrhmanelgharib/Git_Test.git
+	branch = develop
